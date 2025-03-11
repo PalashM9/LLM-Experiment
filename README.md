@@ -2,6 +2,13 @@
 
 A simplified pool game built with Python and Pygame, where an LLM (Llama-3.2-3B-Instruct or Qwen2.5-7B-Instruct) is used to determine the shot angle and power. The AI plays by analyzing ball positions and choosing the best possible shot based on pre-defined rules.
 
+Qwen Results: 
+![WhatsAppVideo2025-03-11at14 47 15_f96efb63-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5fb61e6-d560-4fde-8186-87c24ddcc53d)
+
+Llama Results: 
+![WhatsAppVideo2025-03-11at14 33 16_dc9471a4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1a358db9-80af-4992-8e07-42322d76300e)
+
+
 ## About the Experiment
 
 This project explores how a language model (LLM) can interact with a numerical and spatial environment by predicting the best shot in a billiards game. It uses:
